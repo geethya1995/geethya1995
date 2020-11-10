@@ -6,9 +6,9 @@ How to reach me:
   * Connect with me on [LinkedIn](https://www.linkedin.com/in/geethya95/)
   * Add me on [Facebook](https://www.facebook.com/geethya.tennakoon/)
     
-[![Geethya's github stats](https://github-readme-stats.vercel.app/api?username=geethya1995&count_private=true&show_icons=true&theme=algolia&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Geethya's github stats](https://github-readme-stats.vercel.app/api?username=geethya1995&count_private=true&show_icons=true&theme=algolia&hide=issues&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geethya1995&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geethya1995&langs_count=10&exclude_repo=E-Tutor)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=geethya1995)
