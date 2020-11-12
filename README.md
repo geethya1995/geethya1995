@@ -8,7 +8,7 @@ How to reach me:
     
 [![Geethya's github stats](https://github-readme-stats.vercel.app/api?username=geethya1995&count_private=true&show_icons=true&theme=algolia&hide=issues&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geethya1995&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geethya1995&langs_count=10&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=geethya1995)
